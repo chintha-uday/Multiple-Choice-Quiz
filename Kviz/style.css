@@ -1,0 +1,41 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    
+}
+
+body {
+    background-color: beige;
+}
+h1 {
+    text-align: center;
+    padding: 10px;
+    background-color: rgb(201, 201, 132);
+}
+
+div {
+    background-color: rgb(219, 191, 114);
+    padding: 12px;
+    margin-right: 30%;
+    margin-left: 30%;
+}
+
+fieldset {
+    padding: 18px;
+    border-color: white;
+}
+
+.btn {
+    padding: 15px;
+    font-size: 15px;
+}
+
+#submit {
+    background-color: green;
+}
+
+#novaPitanja {
+    background-color: yellow;
+}
